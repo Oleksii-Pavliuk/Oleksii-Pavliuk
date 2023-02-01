@@ -3,6 +3,5 @@
 
 ##### Backend: Django, Flask, PHP, Node.js
 ##### Frontend: JavaScript, React, HTML, CSS
-##### You can check my Portfolio [Here](https://oleksii-pavliuk.github.io)
 
 ``
