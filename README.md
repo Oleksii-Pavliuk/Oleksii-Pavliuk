@@ -1,4 +1,4 @@
-# 👋 Hello , My name is Oleksii Pavliuk
+# 👋 Hello , My name is Oleksii
 ## I'm Full Stack Developer.
 
 ##### Backend: Django, Flask, PHP, Node.js
